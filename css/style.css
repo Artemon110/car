@@ -1,0 +1,51 @@
+.red {
+   color: red;
+}
+
+p.orange {
+   color: orangered;
+}
+
+.yellow {
+   color: yellow;
+}
+
+div.green {
+   color: green;
+}
+
+.blue {
+   color: blue;
+}
+
+div.purple {
+   color: purple;
+}
+
+.pink {
+   color: pink;
+}
+
+a.green {
+   color: green;
+}
+
+.cyan {
+   color:cyan ;
+}
+
+a.yellow {
+   color: yellow;
+}
+
+ol {
+   color: yellow;
+}
+
+h2 {
+   color: rgb(212, 0, 255);
+}
+
+ul {
+    color: rgba(0, 255, 145, 0.788);
+}
